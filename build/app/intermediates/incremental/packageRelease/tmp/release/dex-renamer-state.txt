@@ -1,0 +1,4 @@
+#Sat Aug 10 14:17:48 CET 2024
+base.0=/Users/mac/Downloads/stripcard-app-new-v3.6.0/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
